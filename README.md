@@ -51,7 +51,7 @@ xuzhenwendeMacBook-Pro:bin xuzhenwen$ iTMSUpload -a xxx -t xxx -c xxx -s xxx -i 
 
 
 
-
+技术支持与bug反馈的联系方式：QQ 450010152
 
 
 
