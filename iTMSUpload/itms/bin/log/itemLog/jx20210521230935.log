@@ -1,0 +1,10 @@
+
+
+
+Package Summary:
+ 
+1 package(s) were not uploaded because they had problems:
+	/Users/xuzhenwen/Documents/许多蚊/Job/aIT_lifeStyle/Python_XZW/03iOS自动化/Transporter/iTMSTransporter/itms/bin/com.inder.jx/jx.itmsp - Error Messages:
+		ERROR ITMS-4062: "No software found with vendor_id 'com.inder.jx'" at Software
+		ERROR ITMS-5110: "Please supply the <version> section" at Software/SoftwareMetadata
+运行结束，如果没有结果 请检查服务器
